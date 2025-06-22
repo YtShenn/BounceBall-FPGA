@@ -9,7 +9,7 @@
 
 ​    如图所示，游戏界面由背景图片、不断移动的黄色小球、下方用于接球的棕色木板组成。
 
-<img src="https://github.com/YtShenn/BounceBall-FPGA/blob/main/image/interface.jpg" alt="Example Image" width="400">
+<img src="https://github.com/YtShenn/BounceBall-FPGA/blob/main/image/interface.png" alt="Example Image" width="400">
 
 ## 实现的功能
 
